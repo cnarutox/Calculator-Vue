@@ -4,6 +4,10 @@
 
 ## How to Use
 
+- npm install
+- npm run build
+- npm run dev
+
 * **Click buttons** on the calculator by the mouse
 * Input numbers or operators by **keyboard** directly because the calculator will be focused on automatically
 
